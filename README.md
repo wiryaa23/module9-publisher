@@ -9,3 +9,6 @@
 > - guest kedua merupakan password untuk username tersebut.
 > - localhost menunjukkan bahwa server RabbitMQ berjalan di computer lokal.
 > - 5672 merupakan port default yang digunakan oleh protokol AMQP.
+
+- Tampilan ketika menjalankan RabbitMQ adalah sebagai berikut.
+![RabbitMQ](images/RabbitMQ.png)
