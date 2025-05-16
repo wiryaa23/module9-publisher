@@ -12,3 +12,11 @@
 
 - Tampilan ketika menjalankan RabbitMQ adalah sebagai berikut.
 ![RabbitMQ](images/RabbitMQ.png)
+
+- Sending and Processing Event
+
+Publisher:
+![Sending_Publisher](images/Sending_Publisher.png)
+Subscriber:
+![Sending_Subscriber](images/Sending_Subscriber.png)
+  Kita dapat melihat dari gambar bahwa ketika publisher mengirimkan data, maka subscriber akan menerima data yang dikirimkan. Karena saya menjalankan proses sebanyak dua kali, maka subscriber menerima sebanyak 10 event dari publisher.
